@@ -1,22 +1,3 @@
-# import PIL.Image as pil
-# import io
-#
-# fname = 'C:\\Users\\sai.kurakula\\Downloads\\VID_20190822_065609.mp4'
-# fname2 = 'C:\\Users\\sai.kurakula\\Desktop\\VID_20190822_065609_1.mp4'
-# with open(fname,'rb+') as file:
-#     data = file.read()
-#
-# # image = pil.open(io.BytesIO(data))
-# im = pil.open(fname)
-# im.show()
-# # im.thumbnail((250,250))
-# # imgByteArr = io.BytesIO()
-# # im.save(imgByteArr, format='PNG')
-# # imgByteArr = imgByteArr.getvalue()
-# # with open(fname2,'wb') as f:
-# #     f.write(imgByteArr)
-# # im.show()
-
 
 
 from WordsInOceanOfLetters import WordsInOceanOfLetters
